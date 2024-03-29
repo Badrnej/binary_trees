@@ -1,0 +1,13 @@
+*
+!/.gitignore
+!/*.h
+!/*.c
+!/README.md
+*main.c
+!/*-O
+!/Makefile
+!/main_files
+!/main_files/*.c
+!/images
+!/images/*
+!/task.sh
