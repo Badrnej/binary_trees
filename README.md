@@ -1,5 +1,5 @@
-#Resources
-##Read or watch:
+# Resources
+## Read or watch:
 
 - Binary tree (note the first line: Not to be confused with B-tree.)
 - Data Structure and Algorithms - Tree
@@ -7,10 +7,10 @@
 - Binary Search Tree
 - Data structures: Binary Tree
 
-#Learning Objectives
+# Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-##General
+## General
 - What is a binary tree
 - What is the difference between a binary tree and a Binary Search Tree
 - What is the possible gain in terms of time complexity compared to linked lists
@@ -18,15 +18,15 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What are the different traversal methods to go through a binary tree
 - What is a complete, a full, a perfect, a balanced binary tree
 
-##Copyright - Plagiarism
+## Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-#Requirements
+# Requirements
 
-##General
+## General
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 - All your files should end with a new line
@@ -40,15 +40,15 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
-##GitHub
+## GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
-#More Info
+# More Info
 
-##Data structures
+## Data structures
 Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
 
-###Basic Binary Tree
+### Basic Binary Tree
 /**
  * struct binary_tree_s - Binary tree node
  *
